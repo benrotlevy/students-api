@@ -16,7 +16,7 @@ const students = [
         city: "Lod",
         hobby: "reading",
         age: 33,
-        phoneNumber: "",
+        phoneNumber: "0527137068",
     },
     {
         firstName: "Yedidya",
