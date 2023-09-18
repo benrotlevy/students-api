@@ -106,6 +106,30 @@ const students = [
         age: 27,
         phoneNumber: "0532480071",
     },
+    {
+        firstName: "Meir",
+        lastName: "Shindler",
+        city: "Bnei Brak",
+        hobby: "art",
+        age: 38,
+        phoneNumber: "0526123001",
+    },
+    {
+        firstName: "Shlomo",
+        lastName: "Rozental",
+        city: "Petah Tikva",
+        hobby: "sleep",
+        age: 27,
+        phoneNumber: "0504115845",
+    },
+    {
+        firstName: "Avshalom",
+        lastName: "Ram",
+        city: "Bnei Brak",
+        hobby: "books",
+        age: 37,
+        phoneNumber: "0527128119",
+    },
 ];
 
 app.get("/", (req, res) => {
